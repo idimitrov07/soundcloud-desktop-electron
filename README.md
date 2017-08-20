@@ -1,2 +1,2 @@
-== Desktop app for SoundCloud
+Desktop app for SoundCloud
 Built using https://electron.atom.io
