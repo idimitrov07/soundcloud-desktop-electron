@@ -8,17 +8,17 @@ let win
 
 function createWindow () {
   // Create the browser window.
-  win = new BrowserWindow({width: 960, height: 600, show: false})
+  win = new BrowserWindow({width: 960, height: 600, show: false,
+                           backgroundColor: '#f50'})
 
-  // and load the index.html of the app.
-  // win.loadURL(url.format({
-  //   pathname: path.join(__dirname, 'index.html'),
-  //   protocol: 'file:',
-  //   slashes: true
-  // }))
+  // // open soundcloud with icon options
+  win.loadURL(url.format({
+    pathname: 'https://soundcloud.com',
+    icon: path.join(__dirname, 'assets/icons/png/64x64.png')
+  }))
 
   // open soundcloud
-  win.loadURL('https://soundcloud.com')
+  // win.loadURL('https://soundcloud.com')
 
   win.once('ready-to-show', () => {
     win.show()
