@@ -5,17 +5,17 @@
     <key>BuildMachineOSBuild</key>
     <string>16E195</string>
     <key>CFBundleDisplayName</key>
-    <string>soundcloudd</string>
+    <string>soundcloud-electron</string>
     <key>CFBundleExecutable</key>
-    <string>soundcloudd</string>
+    <string>soundcloud-electron</string>
     <key>CFBundleIconFile</key>
     <string>electron.icns</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.soundcloudd</string>
+    <string>com.electron.soundcloud-electron</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>soundcloudd</string>
+    <string>soundcloud-electron</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>

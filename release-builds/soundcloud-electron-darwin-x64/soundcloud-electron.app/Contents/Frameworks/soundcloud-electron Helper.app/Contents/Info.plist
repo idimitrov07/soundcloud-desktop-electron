@@ -5,9 +5,9 @@
     <key>BuildMachineOSBuild</key>
     <string>16E195</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.soundcloudd.helper</string>
+    <string>com.electron.soundcloud-electron.helper</string>
     <key>CFBundleName</key>
-    <string>soundcloudd</string>
+    <string>soundcloud-electron</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>DTSDKBuild</key>
@@ -23,8 +23,8 @@
     <key>NSSupportsAutomaticGraphicsSwitching</key>
     <true/>
     <key>CFBundleDisplayName</key>
-    <string>soundcloudd Helper</string>
+    <string>soundcloud-electron Helper</string>
     <key>CFBundleExecutable</key>
-    <string>soundcloudd Helper</string>
+    <string>soundcloud-electron Helper</string>
   </dict>
 </plist>

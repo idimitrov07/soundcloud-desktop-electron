@@ -5,13 +5,13 @@
     <key>BuildMachineOSBuild</key>
     <string>16E195</string>
     <key>CFBundleDisplayName</key>
-    <string>soundcloudd Helper NP</string>
+    <string>soundcloud-electron Helper NP</string>
     <key>CFBundleExecutable</key>
-    <string>soundcloudd Helper NP</string>
+    <string>soundcloud-electron Helper NP</string>
     <key>CFBundleIdentifier</key>
-    <string>com.electron.soundcloudd.helper.NP</string>
+    <string>com.electron.soundcloud-electron.helper.NP</string>
     <key>CFBundleName</key>
-    <string>soundcloudd Helper NP</string>
+    <string>soundcloud-electron Helper NP</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>DTSDKBuild</key>
