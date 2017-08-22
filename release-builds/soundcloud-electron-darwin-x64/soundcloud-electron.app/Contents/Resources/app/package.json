@@ -1,0 +1,9 @@
+{
+  "name": "soundcloud-electron",
+  "version": "0.1.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^1.7.5",
+    "electron-packager": "^8.7.2"
+  }
+}
